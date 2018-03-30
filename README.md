@@ -1,0 +1,1 @@
+Nesse Assessment foi criado com o Visual Studio, um projeto de uma aplicação Web do tipo ASP .NET Web Application (.NET Framework) e utilizado o template MVC. Esse projeto consiste em uma aplicação para o Gerenciamento de Aniversários de Amigos. Todos os dados utilizados por essa aplicação foram armazenados em uma base de dados SQL Server Express LocalDB.
